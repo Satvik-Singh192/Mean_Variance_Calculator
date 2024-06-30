@@ -16,4 +16,5 @@ def Calculate(lst):
 for i in range(9):
    x=int(input("Enter a Number:"))
    l.append(x)
+print("These are the calculations")
 print(Calculate(l))
